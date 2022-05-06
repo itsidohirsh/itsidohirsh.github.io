@@ -64,13 +64,14 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
+          { to: '/about', label: 'About', position: 'left' },
+          { to: '/blog', label: 'Blog', position: 'left' },
           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Docs',
           },
-          { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://github.com/ido-hi/ido-hi.github.io',
             label: 'GitHub',
