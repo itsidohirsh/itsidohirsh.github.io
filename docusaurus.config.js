@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Ido Hirsh',
-  url: 'https://ido-hi.github.io',
+  url: 'https://itsidohirsh.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -15,8 +15,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'ido-hi', // Usually your GitHub org/user name.
-  projectName: 'ido-hi.github.io', // Usually your repo name.
+  organizationName: 'itsidohirsh', // Usually your GitHub org/user name.
+  projectName: 'itsidohirsh.github.io', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
@@ -38,14 +38,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/ido-hi/ido-hi.github.io/tree/master/',
+            'https://github.com/itsidohirsh/itsidohirsh.github.io/tree/master/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/ido-hi/ido-hi.github.io/tree/master/',
+            'https://github.com/itsidohirsh/itsidohirsh.github.io/tree/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -73,7 +73,7 @@ const config = {
             label: 'Docs',
           },
           {
-            href: 'https://github.com/ido-hi/ido-hi.github.io',
+            href: 'https://github.com/itsidohirsh/itsidohirsh.github.io',
             label: 'GitHub',
             position: 'right',
           },
@@ -87,15 +87,15 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/ido-hi/ido-hi.github.io',
+                href: 'https://github.com/itsidohirsh',
               },
               {
                 label: 'Instagram',
-                href: 'https://instagram.com/its.ido.hirsh',
+                href: 'https://instagram.com/itsidohirsh',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/its_ido_hirsh',
+                href: 'https://twitter.com/itsidohirsh',
               },
             ],
           },
