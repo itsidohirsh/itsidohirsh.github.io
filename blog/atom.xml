@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ido-hi.github.io/blog</id>
+    <id>https://itsidohirsh.github.io/blog</id>
     <title>Ido Hirsh Blog</title>
     <updated>2022-05-06T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://ido-hi.github.io/blog"/>
+    <link rel="alternate" href="https://itsidohirsh.github.io/blog"/>
     <subtitle>Ido Hirsh Blog</subtitle>
-    <icon>https://ido-hi.github.io/img/favicon.ico</icon>
+    <icon>https://itsidohirsh.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[My first blog]]></title>
         <id>/2022/05/06/intro</id>
-        <link href="https://ido-hi.github.io/blog/2022/05/06/intro"/>
+        <link href="https://itsidohirsh.github.io/blog/2022/05/06/intro"/>
         <updated>2022-05-06T00:00:00.000Z</updated>
         <summary type="html"><![CDATA["You have to be odd to be number one" - Dr. Seuss]]></summary>
         <content type="html"><![CDATA[<blockquote><p><em>"You have to be odd to be number one"</em> - <strong>Dr. Seuss</strong></p></blockquote><p>Hi, I'm <strong>Ido Hirsh</strong> and this is my first blog on my new website!<br>
@@ -18,7 +18,7 @@
 <!-- -->Hope we'll have some fun together, enjoy 😉</p>]]></content>
         <author>
             <name>Ido Hirsh</name>
-            <uri>https://github.com/ido-hi</uri>
+            <uri>https://github.com/itsidohirsh</uri>
         </author>
     </entry>
 </feed>
