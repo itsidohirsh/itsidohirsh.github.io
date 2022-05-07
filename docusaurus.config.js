@@ -64,43 +64,68 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          { to: '/about', label: 'About', position: 'left' },
           { to: '/blog', label: 'Blog', position: 'left' },
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Docs',
-          },
-          {
-            href: 'https://github.com/itsidohirsh/itsidohirsh.github.io',
-            label: 'GitHub',
-            position: 'right',
-          },
+          // {
+          //   type: 'doc',
+          //   docId: 'intro',
+          //   position: 'left',
+          //   label: 'Docs',
+          // },
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         links: [
           {
-            title: 'Community',
+            items: [
+              {
+                label: 'Instagram',
+                href: 'https://instagram.com/itsidohirsh',
+              },
+            ],
+          },
+          {
+            items: [
+              {
+                label: 'Facebook',
+                href: 'https://facebook.com/itsidohirsh',
+              },
+            ],
+          },
+          {
             items: [
               {
                 label: 'GitHub',
                 href: 'https://github.com/itsidohirsh',
               },
-              {
-                label: 'Instagram',
-                href: 'https://instagram.com/itsidohirsh',
-              },
+            ],
+          },
+          {
+            items: [
               {
                 label: 'Twitter',
                 href: 'https://twitter.com/itsidohirsh',
               },
             ],
           },
+          {
+            items: [
+              {
+                label: 'Stack Overflow',
+                href: 'https://stackoverflow.com/users/19016500/ido-hirsh',
+              },
+            ],
+          },
+          {
+            items: [
+              {
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/in/ido-hirsh-a894a8239',
+              },
+            ],
+          },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Ido Hirsh`,
+        // copyright: `Copyright © ${new Date().getFullYear()} Ido Hirsh`,
       },
       prism: {
         theme: lightCodeTheme,
