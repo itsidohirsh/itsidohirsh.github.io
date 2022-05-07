@@ -58,7 +58,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Ido Hirsh',
+        title: 'Noa Hirsh',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
