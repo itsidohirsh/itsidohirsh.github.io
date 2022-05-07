@@ -44,7 +44,7 @@ yarn run serve
 
 ### GitHub Pages
 
-After you've made local changes, run this command to publish them to GitHub Pages.
+If you don't have GitHub actions to do it for you, after you've made local changes and pushed them to the master branch, run this command to publish them to GitHub Pages.
 
 Bash
 ```
