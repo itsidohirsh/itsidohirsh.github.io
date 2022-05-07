@@ -8,14 +8,12 @@
     <subtitle>Ido Hirsh Blog</subtitle>
     <icon>https://itsidohirsh.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[My first blog]]></title>
-        <id>/2022/05/06/intro</id>
-        <link href="https://itsidohirsh.github.io/blog/2022/05/06/intro"/>
+        <title type="html"><![CDATA[My first post]]></title>
+        <id>/2022/05/06/first</id>
+        <link href="https://itsidohirsh.github.io/blog/2022/05/06/first"/>
         <updated>2022-05-06T00:00:00.000Z</updated>
         <summary type="html"><![CDATA["You have to be odd to be number one" - Dr. Seuss]]></summary>
-        <content type="html"><![CDATA[<blockquote><p><em>"You have to be odd to be number one"</em> - <strong>Dr. Seuss</strong></p></blockquote><p>Hi, I'm <strong>Ido Hirsh</strong> and this is my first blog on my new website!<br>
-<!-- -->Here I'm going to document my journy and the stuff that I learn along the way.<br>
-<!-- -->Hope we'll have some fun together, enjoy 😉</p>]]></content>
+        <content type="html"><![CDATA[<blockquote><p><em>"You have to be odd to be number one"</em> - <strong>Dr. Seuss</strong></p></blockquote><p>Hi, I'm <strong>Ido Hirsh</strong> and this is my first post on my new blog!</p>]]></content>
         <author>
             <name>Ido Hirsh</name>
             <uri>https://github.com/itsidohirsh</uri>

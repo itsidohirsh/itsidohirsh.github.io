@@ -9,14 +9,12 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[My first blog]]></title>
-            <link>https://itsidohirsh.github.io/blog/2022/05/06/intro</link>
-            <guid>/2022/05/06/intro</guid>
+            <title><![CDATA[My first post]]></title>
+            <link>https://itsidohirsh.github.io/blog/2022/05/06/first</link>
+            <guid>/2022/05/06/first</guid>
             <pubDate>Fri, 06 May 2022 00:00:00 GMT</pubDate>
             <description><![CDATA["You have to be odd to be number one" - Dr. Seuss]]></description>
-            <content:encoded><![CDATA[<blockquote><p><em>"You have to be odd to be number one"</em> - <strong>Dr. Seuss</strong></p></blockquote><p>Hi, I'm <strong>Ido Hirsh</strong> and this is my first blog on my new website!<br>
-<!-- -->Here I'm going to document my journy and the stuff that I learn along the way.<br>
-<!-- -->Hope we'll have some fun together, enjoy 😉</p>]]></content:encoded>
+            <content:encoded><![CDATA[<blockquote><p><em>"You have to be odd to be number one"</em> - <strong>Dr. Seuss</strong></p></blockquote><p>Hi, I'm <strong>Ido Hirsh</strong> and this is my first post on my new blog!</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
