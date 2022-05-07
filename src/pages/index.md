@@ -4,10 +4,19 @@ title: Home
 
 # Ido Hirsh
 
-Self learner • Creative • Awesome
+Self Learner • Creative • Awesome
 
+***
+
+Hi, I'm **Ido Hirsh**.
+
+Here I'm going to document my journy and the stuff that I learn along the way ⚡
+
+This is the place for me to scratch the writer's itch.  
+I publish ideas and lessons I learn while pursuing the things that peak my curiosity.  
+My writing spans topics like software, design, science, technology, productivity and motivation.
+
+Enjoy 😉
+
+*A little appetizer...*
 > *"Work hard, have fun, make history."* - **Jeff Bezos**
-
-Hi, I'm **Ido Hirsh**.  
-Here I'm going to document my journy and the stuff that I learn along the way.  
-Hope we'll have some fun together, enjoy 😉
