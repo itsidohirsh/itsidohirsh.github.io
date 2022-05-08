@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"It shouldn\'t have taken so long...","permalink":"/blog/2022/05/07/docusaurus"},{"title":"The Beginning","permalink":"/blog/2022/05/06/first-post"}]}')}}]);
