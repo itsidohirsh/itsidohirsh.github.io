@@ -51,7 +51,7 @@ The last step is to deploy to github, simply run:
 - CMD: `cmd /C "set "GIT_USER=<GITHUB_USERNAME>" && yarn deploy"`
 
 
-## Conclution
+## Conclusion
 To conclude, the experience wasn't that bad, but it shouldn't have taken so long.
 
 Hope I helped you if you had the same problem, and if you want me to write on other **Docusaurus** related questions / problems let me know.
