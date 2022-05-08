@@ -1,5 +1,5 @@
 ---
-title: The Beginning
+title: The beginning
 description: First blog post!
 authors: ido
 ---
