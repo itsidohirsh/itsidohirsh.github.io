@@ -8,7 +8,7 @@ Self Learner • Creative • Awesome
 
 ***
 
-Hi, I'm **Ido Hirsh**.
+Hi, I'm **Ido Hirsh** 👋
 
 Here I'm going to document my journy and the stuff that I learn along the way ⚡
 
