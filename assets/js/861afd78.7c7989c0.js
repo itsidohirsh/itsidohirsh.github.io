@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[380],{4115:function(e){e.exports=JSON.parse('{"label":"entrepreneurship","permalink":"/blog/tags/entrepreneurship","allTagsPath":"/blog/tags","count":1}')}}]);
