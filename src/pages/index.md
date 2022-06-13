@@ -4,7 +4,7 @@ title: Home
 
 # Ido Hirsh
 
-Self Learner • Creative • Awesome
+Self-Learner • Creative • Awesome
 
 ***
 
@@ -14,7 +14,7 @@ Here I'm going to document my journy and the stuff that I learn along the way �
 
 This is the place for me to scratch the writer's itch.  
 I publish ideas and lessons I learn while pursuing the things that peak my curiosity.  
-My writing spans topics like software, design, science, technology, productivity and motivation.
+My writing spans topics like **business, entrepreneurship, innovation, investing, technology, software, travel, productivity and motivation.**
 
 Enjoy 😉
 
